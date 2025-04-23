@@ -1,0 +1,6 @@
+@RentM.API_HostAddress = http://localhost:5292
+
+GET {{RentM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
